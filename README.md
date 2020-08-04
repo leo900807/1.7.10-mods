@@ -40,3 +40,9 @@ Tinkers' Construct -- 匠魂
 Waila -- 我在看什麼  
 Witchery -- 巫師
 > WitcheryPatch -- 巫師補充
+
+## v1.1(2020-08-03)
+
+More Enchantments -- 更多附魔  
+SlashBlade -- 拔刀劍
+> Weapon -- 更多武器
