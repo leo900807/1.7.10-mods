@@ -3,7 +3,7 @@
 請先安裝 `Forge Mod Loader` 並先用該版本(含 Forge 的)開啟一次  
 會在 `AppData/Roaming/.minecraft/` 產生 `mods/` 資料夾  
 將 `1.7.10/` 資料夾放入 `mods/` 資料夾內即可  
-若安裝成功會在 Minecraft 啟動後左下角顯示 `42 mods loaded, 42 mods active`
+若安裝成功會在 Minecraft 啟動後左下角顯示 `43 mods loaded, 43 mods active`
 
 # 模組列表
 
